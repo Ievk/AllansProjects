@@ -13,6 +13,7 @@ public class HelloMain {
         System.out.println(littleHelper.help(name));
         System.out.println("Test");
         System.out.println("Test2");
+                System.out.println("Test3");
 
     }
 
