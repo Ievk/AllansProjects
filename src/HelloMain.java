@@ -11,7 +11,7 @@ public class HelloMain {
         String name = input.nextLine();
         Helper littleHelper = new Helper();
         System.out.println(littleHelper.help(name));
-        
+        System.out.println("Test");
 
     }
 
