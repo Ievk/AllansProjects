@@ -12,6 +12,7 @@ public class HelloMain {
         Helper littleHelper = new Helper();
         System.out.println(littleHelper.help(name));
         System.out.println("Test");
+        System.out.println("Test2");
 
     }
 
